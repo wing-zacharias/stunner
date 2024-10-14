@@ -6,11 +6,11 @@ require (
 	github.com/firefart/gosocks v0.4.2
 	github.com/pion/dtls/v2 v2.2.11
 	github.com/sirupsen/logrus v1.9.3
-	github.com/urfave/cli/v2 v2.27.2
+	github.com/urfave/cli/v2 v2.27.5
 )
 
 require (
-	github.com/cpuguy83/go-md2man/v2 v2.0.4 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.5 // indirect
 	github.com/pion/logging v0.2.2 // indirect
 	github.com/pion/transport/v2 v2.2.5 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
